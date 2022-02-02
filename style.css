@@ -1,14 +1,10 @@
 body{
     margin: 0;
     padding: 0;
-    width: 100vw;
-    /* height: 100vh; */
-    display: flex;
-    flex-direction: column;
-    
+    overflow-x:hidden;    
 }
 
-.header, .footer {
+.header {
     background-color: #1F2937;
     color: #F9FAF8;
     display: flex;
@@ -142,9 +138,10 @@ a {
 .footer{
     background-color: #1F2937;
     color: #F9FAF8;
-    justify-self: center;
-    width: 95%;
     margin-top: 20px;
     padding: 20px 0 20px 20px;
-    
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+   
 }
