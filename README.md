@@ -1,8 +1,10 @@
 # landing
-TOP 2nd exercise - Landing Page
+TOP 2nd exercise -HTML & CSS Landing Page
     
-    Content -
-        Logo - <a href='https://pngtree.com/so/golden'>golden png from pngtree.com/</a>
+    
+    Many thanks to the creators of all the images used there are links to go to the pages by clicking the image or author in the the product line under each picture
+    
+    Content -      
     
         mountain picture - Photo by <a href="https://unsplash.com/@mar28mar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mar Bustos</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -19,4 +21,3 @@ Product div
 
 
     
-    Knowledge used HTML & CSS
